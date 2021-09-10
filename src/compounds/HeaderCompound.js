@@ -16,7 +16,7 @@ function HeaderCompound({ children }) {
       </NavBar>
       <FeatureWrapper className="feature-wrapper-home">
         <FeatureTitle className="feature-title-home">
-          Unlimited movies, TV shows and more.
+          Filmes ilimitados, TV , shows e muito mais.
         </FeatureTitle>
         <Warning>
           Pagina Inicial NetFlix  ## acertar isto #
